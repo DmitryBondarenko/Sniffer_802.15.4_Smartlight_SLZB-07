@@ -1,6 +1,14 @@
+# FORK JUST CREATED, SOURCE CODE ADAPTATION IN PROGRESS 
 
 
-# 802.15.4 Sniffer for SONOFF Zigbee 3.0 USB DONGLE Plus-E
+
+
+
+
+
+
+
+## 802.15.4 Sniffer for Smartlight SLZB-07 USB dongle
 
 - [802.15.4 Sniffer for SONOFF Zigbee 3.0 USB DONGLE Plus-E](#802154-sniffer-for-sonoff-zigbee-30-usb-dongle-plus-e)
   - [What's needed](#whats-needed)
